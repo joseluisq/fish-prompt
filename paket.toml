@@ -1,6 +1,6 @@
 [package]
 name = "fish-prompt"
-version = "0.0.0"
+version = "0.1.0"
 authors = ["Jose Quintana <git.io/joseluisq>"]
 license = "MIT OR Apache-2.0"
 description = "Minimal Fish prompt with essentials. 🐠"
