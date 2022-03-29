@@ -1,10 +1,8 @@
-# Fish Prompt
+# Fish Prompt ![devel](https://github.com/joseluisq/fish-prompt/workflows/devel/badge.svg?branch=master) [![Releases](https://img.shields.io/github/release/joseluisq/fish-prompt.svg?label=latest)](https://github.com/joseluisq/fish-prompt/releases)
 
 > Minimal [Fish prompt](https://fishshell.com/docs/current/cmds/fish_prompt.html) with essentials. 🐠
 
-**Status:** WIP
-
-<img src="https://user-images.githubusercontent.com/1700322/108569595-67033f80-730c-11eb-9362-e67bd3767628.png" width="680">
+<img src="https://user-images.githubusercontent.com/1700322/108569595-67033f80-730c-11eb-9362-e67bd3767628.png">
 
 ## Install
 
@@ -22,9 +20,9 @@ fisher install joseluisq/fish-prompt
 
 ## Contributions
 
-[Pull requests](https://github.com/joseluisq/gitnow/pulls) and [issues](https://github.com/joseluisq/gitnow/issues) are welcome.
+[Pull requests](https://github.com/joseluisq//pulls) and [issues](https://github.com/joseluisq/fish-prompt/issues) are welcome.
 
 ## License
 MIT license
 
-© 2021 [Jose Quintana](http://git.io/joseluisq)
+© 2021-present [Jose Quintana](https://git.io/joseluisq)
