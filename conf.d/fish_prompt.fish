@@ -90,5 +90,5 @@ function fish_prompt --description 'Write t the prompt'
         (set_color $color_host) (prompt_hostname) \
         $normal ' ' (set_color $color_cwd) (prompt_pwd) \
         $normal (set_color -i)(fish_vcs_prompt) \
-        ' '$prompt_status ' '(set_color -id white)"$duration$normal " $suffix' '
+        ' '$prompt_status ' '(set_color -i -d white)"$duration$normal " $suffix' '
 end
